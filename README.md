@@ -1,3 +1,6 @@
 # Tablueau-Project-
-## Analyzing gaming data using Tableau Public
-### 	Analysing a sales data of a global gaming company from 1980 – 2020 w.r.to genre
+## Analysing the data of a global gaming company from 1980 – 2020 using Tableau
+### Description:
+#### 
+- The given data contains the columns of year, sales, genere, game name, country, platforms.
+- 
